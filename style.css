@@ -1,0 +1,32 @@
+ table {
+      border-collapse: collapse;
+    }
+
+    td,
+    th {
+      border: 1px solid black;
+      padding: 3px;
+      text-align: center;
+    }
+
+    th {
+      font-weight: bold;
+      background-color: #E6E6E6;
+    }
+    .day-wrapper{
+      margin: 20px;
+      padding: 0;
+      width: 154px;
+      overflow: hidden;
+    }
+    .day-wrapper li {
+      list-style: none;
+      width: 20px;
+      text-align: center;
+      border: 1px solid black;
+      float: left;
+    }
+
+    .month-wrapper {
+      
+    }
